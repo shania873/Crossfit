@@ -1,0 +1,148 @@
+# Translation of Plugins - Simple Masonry Gallery - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Simple Masonry Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-08 15:51:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Simple Masonry Gallery - Stable (latest release)\n"
+
+#: lib/class-simplemasonryadmin.php:98
+msgid "The settings for the blocks are in each block."
+msgstr "Inställningarna för blocken är i varje block."
+
+#: lib/class-simplemasonryadmin.php:98
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: lib/class-simplemasonry.php:84
+msgid "Link to Media File"
+msgstr "Länk till mediafil"
+
+#: lib/class-simplemasonry.php:83
+msgid "Rounded Images"
+msgstr "Rundade bilder"
+
+#: lib/class-simplemasonry.php:82
+msgid "Space"
+msgstr "Utrymme"
+
+#: lib/class-simplemasonry.php:81
+msgid "Update gallery"
+msgstr "Uppdatera galleri"
+
+#: lib/class-simplemasonry.php:80
+msgid "Create Gallery"
+msgstr "Skapa galleri"
+
+#. translators: FAQ Link & Slug
+#: lib/class-simplemasonryadmin.php:205
+msgid "https://wordpress.org/plugins/%s/faq"
+msgstr "https://wordpress.org/plugins/%s/faq"
+
+#. translators: Plugin translation link
+#: lib/class-simplemasonryadmin.php:224
+msgid "Translations for %s"
+msgstr "Översättningar för %s"
+
+#: lib/class-simplemasonryadmin.php:218
+msgid "FAQ"
+msgstr "Vanliga frågor"
+
+#: lib/class-simplemasonryadmin.php:212
+msgid "https://shop.riverforest-wp.info/donate/"
+msgstr "https://shop.riverforest-wp.info/donate/"
+
+#: lib/class-simplemasonryadmin.php:157
+msgid "You can specify it like CSS."
+msgstr "Du kan ange det som CSS."
+
+#. translators: Sample code
+#: lib/class-simplemasonryadmin.php:148
+msgid "%1$s : Specify the padding between images."
+msgstr "%1$s: Ange paddingen mellan bilderna."
+
+#. translators: Sample code
+#: lib/class-simplemasonryadmin.php:136
+msgid "%1$s : Specify the margin between images."
+msgstr "%1$s: Ange marginalen mellan bilderna."
+
+#. translators: Sample code
+#: lib/class-simplemasonryadmin.php:124
+msgid "%1$s : Specify the column width."
+msgstr "%1$s: Ange kolumnbredden."
+
+#: lib/class-simplemasonryadmin.php:120
+msgid "The shortcode attributes are as follows."
+msgstr "Kortkodsattributen är som följer."
+
+#. translators: Default value
+#: lib/class-simplemasonryadmin.php:130 lib/class-simplemasonryadmin.php:142
+#: lib/class-simplemasonryadmin.php:154
+msgid "If not specified, the default value is applied. The default value is %1$d(px)."
+msgstr "Om det inte är angett tillämpas standardvärdet. Standardvärdet är %1$d(px)."
+
+#: lib/class-simplemasonryadmin.php:116
+msgid "Within the Shortcode, it is possible to describe multiple galleries and multiple media."
+msgstr "Inom kortkoden är det möjligt att beskriva flera gallerier och flera medier."
+
+#: lib/class-simplemasonryadmin.php:101 lib/class-simplemasonryadmin.php:107
+#: lib/class-simplemasonryadmin.php:158
+msgid "example:"
+msgstr "exempel:"
+
+#. Author URI of the plugin
+msgid "https://riverforest-wp.info/"
+msgstr "https://riverforest-wp.info/"
+
+#. Author of the plugin
+msgid "Katsushi Kawamori"
+msgstr "Katsushi Kawamori"
+
+#. Description of the plugin
+msgid "Add the effect of Masonry to image."
+msgstr "Lägg till effekten på mosaiken till bilden."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/simple-masonry-gallery/"
+msgstr "https://wordpress.org/plugins/simple-masonry-gallery/"
+
+#. Plugin Name of the plugin
+msgid "Simple Masonry Gallery"
+msgstr "Simple Masonry Gallery"
+
+#: lib/class-simplemasonryadmin.php:231
+msgid "Please make a donation if you like my work or would like to further the development of this plugin."
+msgstr "Vänligen gör en donation om du gillar mitt arbete eller vill vidareutveckla detta tillägg."
+
+#: lib/class-simplemasonryadmin.php:218
+msgid "Reviews"
+msgstr "Omdömen"
+
+#: lib/class-simplemasonryadmin.php:218
+msgid "Support Forums"
+msgstr "Supportforum"
+
+#: lib/class-simplemasonryadmin.php:203
+msgid "Version:"
+msgstr "Version:"
+
+#: lib/class-simplemasonry.php:85
+msgid "Width"
+msgstr "Bredd"
+
+#: lib/class-simplemasonryadmin.php:233
+msgid "Donate to this plugin &#187;"
+msgstr "Donera till detta tillägg &#187;"
+
+#: lib/class-simplemasonryadmin.php:79
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräckliga behörigheter för att komma åt den här sidan."
+
+#: lib/class-simplemasonryadmin.php:57 lib/class-simplemasonryadmin.php:98
+msgid "Settings"
+msgstr "Inställningar"
